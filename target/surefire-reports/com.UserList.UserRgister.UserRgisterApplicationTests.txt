@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.UserList.UserRgister.UserRgisterApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.68 s - in com.UserList.UserRgister.UserRgisterApplicationTests
